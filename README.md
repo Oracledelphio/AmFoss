@@ -1,4 +1,4 @@
-#On why you should me:
+#On why you should choose me:
 Programming has always been a keen interest of mine and I always pounce on any oppurtunity I get to broaden my skills and expertise. I had attended numerous coding competitions during my highschool years
 and also took interest in web development during my spare time. The hit of dopamine one gets on successfully completing a project or seeing your code flourish is what pushes me. I also enjoy taking part in
 leadership roles and helping other members/ classmates, which would make me a strong candidate for contributing to the club's success. "I'm truly excited about the club's mission to promote a healthy coding, 
