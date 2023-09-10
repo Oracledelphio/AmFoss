@@ -19,11 +19,19 @@
   font-weight: bold;
   font-size:22px;
   position:absolute;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  -webkit-transition-duration: 0.3s;
+}
+.btn:hover, .btn:focus, .btn:active{
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  -webkit-transform:scale(1.1);
+  transform:scale(1.1);
 }
 .arrow{ 
   position: absolute;
   margin-top: 838px;
-  left: 968px;           /* Error here try to fix*/
+  left: 972px;           /* Error here try to fix*/
   width: 43px;
   height: 43px;
   z-index: 2;
