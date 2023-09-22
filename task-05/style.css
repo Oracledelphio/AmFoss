@@ -39,12 +39,6 @@ nav {
   box-sizing: border-box;
   background: rgba(11, 11, 33, 0.8);
 }
-body {
-  background-image: url("Images/backdrop.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
 
 .content {
   text-align: center;
