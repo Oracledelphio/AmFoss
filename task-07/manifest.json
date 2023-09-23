@@ -6,6 +6,7 @@
     "author":"Kurt Sony",
     "browser_action": {
         "default_popup": "index.html",
+        "default_icon": "Images/logo(1).jpg",
         "default_title": "Weather App"
     },
     "permissions": ["activeTab"]
