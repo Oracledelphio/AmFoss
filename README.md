@@ -11,3 +11,17 @@ to learn something new and step out of my comfort zone.
 # Contributing Back to the club:
 Through my unwavering determination and open mindedness to new ideas and concepts i would try to put forward new innovative projects to work on as well as encourage fellow batchmates to foster a love for 
 programming and discovery.
+
+| S.No | Task No. | Status |
+|------|----------|--------|
+| 1    | Task-00  | Completed |
+| 2    | Task-01  | Completed |
+| 3    | Task-02  | Completed |
+| 4    | Task-03  | Completed |
+| 5    | Task-04  | 90% Completed |
+| 6    | Task-05  | Completed |
+| 7    | Task-06  | Completed |
+| 8    | Task-07  | Completed |
+| 9    | Task-08  | Partially Completed |
+| 10   | Task-09  | Incomplete |
+| 11   | Task-10  | Incomplete |
