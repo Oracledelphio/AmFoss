@@ -25,7 +25,7 @@ async def on_ready():
 
 @bot.command()
 async def ping(ctx):
-    await ctx.send("hi")
+    await ctx.send("Hello There User! I am at your service")
 @bot.command()
 async def livescore(ctx): 
     raw_html = requests.get(url).text
