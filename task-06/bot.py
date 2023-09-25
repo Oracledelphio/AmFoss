@@ -57,6 +57,6 @@ async def generate(ctx):
         await ctx.send(file=discord.File(file, "records.csv"))
 
 @bot.command()
-async def helpme(ctx):
+async def help(ctx):
     await ctx.send("Commands: \n'!generate @Crickey' - get the csv file the livescores are stored in \n'!livescore @Crickey'- get the live scores")
 bot.run('MTE1NTc3ODg2MjAyMjY3MjQyNQ.GJmrhS.tgzd_CmEYount_nMTXsMCvYnupX-Pa6DVhB1jY')
