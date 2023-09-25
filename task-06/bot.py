@@ -15,7 +15,7 @@ intents.presences = False
 
 url = "https://www.espncricinfo.com/live-cricket-score"
 
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='/', intents=intents)
 
 @bot.event
 async def on_ready():
@@ -57,6 +57,6 @@ async def generate(ctx):
         await ctx.send(file=discord.File(file, "records.csv"))
 
 @bot.command()
-async def help(ctx):
+async def helpme(ctx):
     await ctx.send("Commands: \n'!generate @Crickey' - get the csv file the livescores are stored in \n'!livescore @Crickey'- get the live scores")
 bot.run('MTE1NTc3ODg2MjAyMjY3MjQyNQ.GJmrhS.tgzd_CmEYount_nMTXsMCvYnupX-Pa6DVhB1jY')
