@@ -12,6 +12,8 @@ to learn something new and step out of my comfort zone.
 Through my unwavering determination and open mindedness to new ideas and concepts i would try to put forward new innovative projects to work on as well as encourage fellow batchmates to foster a love for 
 programming and discovery.
 
+# Progress on the Tasks
+
 | S.No | Task No. | Status |
 |------|----------|--------|
 | 1    | Task-00  | Completed |
