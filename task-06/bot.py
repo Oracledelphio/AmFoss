@@ -59,4 +59,4 @@ async def generate(ctx):
 @bot.command()
 async def helpme(ctx):
     await ctx.send("Commands: \n'!generate @Crickey' - get the csv file the livescores are stored in \n'!livescore @Crickey'- get the live scores")
-bot.run('MTE1NTc3ODg2MjAyMjY3MjQyNQ.GJmrhS.tgzd_CmEYount_nMTXsMCvYnupX-Pa6DVhB1jY')
+bot.run('TOKEN')
