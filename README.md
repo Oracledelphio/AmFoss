@@ -20,10 +20,16 @@ programming and discovery.
 | 2    | Task-01  | Completed |
 | 3    | Task-02  | Completed |
 | 4    | Task-03  | Completed |
-| 5    | Task-04  | 90% Completed |
+| 5    | Task-04  | Completed |
 | 6    | Task-05  | Completed |
 | 7    | Task-06  | Completed |
 | 8    | Task-07  | Completed |
 | 9    | Task-08  | Partially Completed |
 | 10   | Task-09  | Incomplete |
 | 11   | Task-10  | Incomplete |
+| 12   | Task-11  | InCompleted |
+| 13   | Task-12  | InCompleted |
+| 14   | Task-13  | Completed |
+| 15   | Task-14  | InCompleted |
+| 16   | Task-15  | InCompleted |
+
