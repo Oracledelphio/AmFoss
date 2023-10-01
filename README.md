@@ -27,9 +27,9 @@ programming and discovery.
 | 9    | Task-08  | Partially Completed |
 | 10   | Task-09  | Incomplete |
 | 11   | Task-10  | Incomplete |
-| 12   | Task-11  | InCompleted |
-| 13   | Task-12  | InCompleted |
+| 12   | Task-11  | Incompleted |
+| 13   | Task-12  | Incompleted |
 | 14   | Task-13  | Completed |
-| 15   | Task-14  | InCompleted |
-| 16   | Task-15  | InCompleted |
+| 15   | Task-14  | Incompleted |
+| 16   | Task-15  | Incompleted |
 
