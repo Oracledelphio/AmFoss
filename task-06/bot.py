@@ -15,7 +15,7 @@ intents.presences = False
 
 url = "https://www.espncricinfo.com/live-cricket-score"
 
-bot = commands.Bot(command_prefix='/', intents=intents)
+bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
 async def on_ready():
