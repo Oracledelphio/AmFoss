@@ -1,2 +1,0 @@
-# 🧙‍♂️ Cracked TerminalWizard 🧙‍♂️
-For the task, I created a seperate file named Final code to compile all the codes that had been found after solving the clues provided. The Final code upon decryption provided a link to a Github repositry that signaled the completition of the Task. All the operations to solve the clues were done on Ubuntu using the Terminal. I enjoyed the treasurehunt feel of this task and completing it felt rewarding and exciting.
